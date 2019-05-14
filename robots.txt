@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eejeulaej.briarrose.info/sitemap.xml
